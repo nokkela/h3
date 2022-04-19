@@ -1,0 +1,30 @@
+commit bf9e2181b334ec65b666af6b027102a39d973223 (HEAD -> master, origin/master)
+Author: Ville Anttila <ville@example.fi>
+Date:   Tue Apr 19 11:23:09 2022 +0300
+
+    Add section c to h3
+
+commit b7e8d3d5e00fcf5c57815f4778ace7fd2ea31d68
+Author: Ville Anttila <ville@example.fi>
+Date:   Mon Apr 18 23:23:20 2022 +0300
+
+    Add proof for work
+
+commit 78c1abf5fef971bc7bf7e8d4430d118ab53b1935
+Author: Ville Anttila <ville@example.fi>
+Date:   Mon Apr 18 23:19:20 2022 +0300
+
+    Work on section b on h3
+
+commit 9163ca03435e9942dba91992a7da34b889f4bc3f
+Author: Ville Anttila <ville@example.fi>
+Date:   Mon Apr 18 23:15:48 2022 +0300
+
+    Add some more text to h3.md again
+
+commit bd1e921afe433be48b52201a8cf6acf9af3420d6
+Author: Ville Anttila <ville@example.fi>
+Date:   Mon Apr 18 23:12:22 2022 +0300
+
+    Add readme.md for the project and more substance for h3.md
+

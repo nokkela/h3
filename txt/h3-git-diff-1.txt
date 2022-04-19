@@ -1,0 +1,17 @@
+diff --git a/h3.md b/h3.md
+index a63a291..0cb71b1 100644
+--- a/h3.md
++++ b/h3.md
+@@ -66,11 +66,4 @@ Muutokset näkyvät Gitin logeissa committ messageina.
+ 
+        Add readme.md for the project and more substance for h3.md
+ 
+-Komennolla *git log* saaduista tiedoista ilmenee, että Ville Anttila on muokannut omien sanojensa mukaan useampaa tiedostoa.
+-
+-
+-### c) Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
+-
+-
+-
+ 
+

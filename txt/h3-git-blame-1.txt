@@ -1,0 +1,20 @@
+ad749bac (Ville Anttila     2022-04-18 22:16:23 +0300  1) # H3 - Versionhallinta
+^953a9b7 (Ville Anttila     2022-04-18 22:05:32 +0300  2) 
+73fa1084 (Ville Anttila     2022-04-18 22:20:16 +0300  3) Ville Anttila\
+73fa1084 (Ville Anttila     2022-04-18 22:20:16 +0300  4) Palvelinten hallinta, kevät 2022, Haaga-Helia AMK\
+73fa1084 (Ville Anttila     2022-04-18 22:20:16 +0300  5) Opettaja: Tero Karvinen\
+40c6a55e (Ville Anttila     2022-04-18 22:32:08 +0300  6) [Kurssisivu](https://terokarvinen.com/2021/configuration-management-systems-2022-spring/)
+^953a9b7 (Ville Anttila     2022-04-18 22:05:32 +0300  7) 
+c9529650 (Ville Anttila     2022-04-18 23:00:51 +0300  8) ## Tiivistelmät ja muistiinpanot
+ad749bac (Ville Anttila     2022-04-18 22:16:23 +0300  9) 
+c9529650 (Ville Anttila     2022-04-18 23:00:51 +0300 10) ### z) Lue ja tiivistä artikkeli muutamalla ranskalaisella viivalla. Tässä z-alakohdassa ei tarvitse siis tehdä testejä tietokoneella.
+^953a9b7 (Ville Anttila     2022-04-18 22:05:32 +0300 11) 
+^953a9b7 (Ville Anttila     2022-04-18 22:05:32 +0300 12) * Commonmark contributors: Markdown Reference (huomaa ainakin otsikot risuaidoilla, kappalejako tyhjällä rivillä, sisennys (tab) koodia, lista, linkki, kuva.
+^953a9b7 (Ville Anttila     2022-04-18 22:05:32 +0300 13) 
+ad749bac (Ville Anttila     2022-04-18 22:16:23 +0300 14) * [Markdown](https://commonmark.org/help/)
+ad749bac (Ville Anttila     2022-04-18 22:16:23 +0300 15) 
+ad749bac (Ville Anttila     2022-04-18 22:16:23 +0300 16) 
+9e8fd3e4 (Ville Anttila     2022-04-18 22:41:57 +0300 17) Markdown on tekstinmuotoilutyyli, jolla voi kirjoittaa yksinkertaisesti muotoiltua tekstiä tavallisella tekstieditorilla. Markdownia tukeva sovellus muuntaa tekstin muotoilun halutuksi.
+40c6a55e (Ville Anttila     2022-04-18 22:32:08 +0300 18) 
+9e8fd3e4 (Ville Anttila     2022-04-18 22:41:57 +0300 19) Esimerkiksi "# kappale" luo uuden kappaleen isolla otsikolla ja "## kappale2" luo alakappaleen pienemmällä otsikolla. Muitakin muotoiluja on, ja Markdownilla voidaan luoda mm. listoja, lihavoida tai kursivoida tekstiä, lisätä koodiblokkeja ja tehdä numeroituja viittauksia linkkeinä muihin sivuihin.
+
