@@ -1,0 +1,32 @@
+fyndig@argon h3 %git add -A                                              [0 11:33:01 22-04-19 (INS)]
+fyndig@argon h3 %git commit                                              [0 11:33:06 22-04-19 (INS)]
+[master 87c954f] Add subdirectories for task files
+ 5 files changed, 74 insertions(+)
+ rename h3-git-1.png => img/h3-git-1.png (100%)
+ create mode 100644 txt/h3-git-blame-1.txt
+ create mode 100644 txt/h3-git-diff-1.txt
+ create mode 100644 txt/h3-git-log-1.txt
+fyndig@argon h3 %git pull && git push                                    [0 11:33:23 22-04-19 (INS)]
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Already up to date.
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 2.29 KiB | 2.29 MiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:nokkela/h3.git
+   bf9e218..87c954f  master -> master
+
