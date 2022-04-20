@@ -4,4 +4,4 @@ Nothing special, just a school project. You can see it [here](https://terokarvin
 
 That's about it.
 Really. That's about it.
-Or is it?
+Or is it? Yes, seems like so.
